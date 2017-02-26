@@ -1,0 +1,11 @@
+{
+	"name": "YouTube ignore",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Automatically ignore publicity on youtube",
+	"permissions": ["tabs", "activeTab", "https://www.youtube.com/watch?v=*", "http://www.youtube.com/watch?v=*"],
+	"background": {
+		"scripts": ["bg.js"],
+		"persistent": false
+	}
+}
