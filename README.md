@@ -1,1 +1,1 @@
-# youtube-ignore-pub
+# youtube-ignore-pub - chrome extention
